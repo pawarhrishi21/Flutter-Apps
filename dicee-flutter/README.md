@@ -1,6 +1,3 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Dicee 🎲
 
 This is an app which can be used as a dice for playing borad games. It randomly generates dice outputs.
